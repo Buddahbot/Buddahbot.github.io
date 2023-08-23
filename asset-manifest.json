@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b0db0ad.css",
+    "main.js": "/static/js/main.1ef9d567.js",
+    "static/media/charoo-screen.png": "/static/media/charoo-screen.e00c3968dbb43862f74c.png",
+    "static/media/Vaultoro-com.png": "/static/media/Vaultoro-com.19ff4b14e612464de511.png",
+    "static/media/hero-light.jpg": "/static/media/hero-light.a50ac87fa479d0c5f1c8.jpg",
+    "static/media/sebastian-cv-screen.png": "/static/media/sebastian-cv-screen.f13b44da93c2b9f75f43.png",
+    "static/media/hero-dark.jpg": "/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/authcate-screen.png": "/static/media/authcate-screen.507f966ddd026d4ae19b.png",
+    "static/media/candy-crush-game-screen.png": "/static/media/candy-crush-game-screen.8dd6c5f226d334ed0378.png",
+    "static/media/authcate-admin-screen.png": "/static/media/authcate-admin-screen.a67cc9cec6bab795a003.png",
+    "static/media/portfolio-screen.png": "/static/media/portfolio-screen.7f865c1b363568c2bbdc.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/GH.svg": "/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.8b0db0ad.css.map": "/static/css/main.8b0db0ad.css.map",
+    "main.1ef9d567.js.map": "/static/js/main.1ef9d567.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b0db0ad.css",
+    "static/js/main.1ef9d567.js"
+  ]
+}
